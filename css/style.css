@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap");
+body {
+  background: url(../img/ADWm.txt);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Nanum Gothic', sans-serif; }
+
+/* Customise container */
+.cc-container {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto; }
+
+.cc-flex {
+  flex: 1; }
+
+#section-one .div-one {
+  background: #fff;
+  height: 23rem;
+  max-height: 23rem;
+  border-radius: 0.7rem; }
+
+#section-one p {
+  font: 12px; }
+
+#section-one .c-btn {
+  width: 295%;
+  max-width: 295px;
+  background: #333;
+  color: #fff; }
+
+#section-one .btn-black {
+  background: #000; }
+
+#section-one .btn-primary {
+  background: #003380; }
+
+#section-one .btn-secondary {
+  background: #C43F17; }
+
+#section-one .btn-gray {
+  background: #6c757d; }
